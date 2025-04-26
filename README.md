@@ -1,1 +1,1 @@
-# clasificador-de-im-genes
+# clasificador-de-imagenes
